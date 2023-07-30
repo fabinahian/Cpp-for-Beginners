@@ -15,4 +15,4 @@ This Repository contains the following:
           Specifications
 
 1. Language: C++
-2. 2. IDE: Visual Studio Code (VS Code)
+2. IDE: Visual Studio Code (VS Code)
