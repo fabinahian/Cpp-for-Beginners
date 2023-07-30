@@ -16,4 +16,3 @@ This Repository contains the following:
     
 1. Language: 	C++
 2. IDE: Visual Studio Code (VS Code)
-
