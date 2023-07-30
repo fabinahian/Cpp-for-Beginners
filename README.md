@@ -12,7 +12,7 @@ This Repository contains the following:
 2. Short descriptions or comments of the code snippets
 3. Sample problems & solutions for beginner
 
-## Specifications:
+## Specifications
 
 1. Language: C++
 2. IDE: Visual Studio Code (VS Code)
